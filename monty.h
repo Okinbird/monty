@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
+
 #define STACK 0
 #define QUEUE 1
 #define DELIMS " \n\t\a\b"
